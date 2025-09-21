@@ -6,5 +6,6 @@ int main(){
 
     n = (int) m; // convert the data type to int
     printf("%d\n", n);
+    
     return 0;
 }
